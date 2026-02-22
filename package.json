@@ -1,0 +1,26 @@
+{
+  "name": "atividadeaplweb-reajustedesalario",
+  "version": "1.0.0",
+  "description": "Atividade de Reajuste de Salário",
+  "keywords": [
+    "http",
+    "node",
+    "express",
+    "PPI"
+  ],
+  "homepage": "https://github.com/Berta-Araujo/AtividadeAplWeb-reajustedesalario#readme",
+  "bugs": {
+    "url": "https://github.com/Berta-Araujo/AtividadeAplWeb-reajustedesalario/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Berta-Araujo/AtividadeAplWeb-reajustedesalario.git"
+  },
+  "license": "ISC",
+  "author": "Berta Araujo",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
